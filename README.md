@@ -40,6 +40,12 @@ VoxTriage transforms emergency medicine by making advanced clinical reasoning, p
 
 VoxTriage is an advanced real-time paramedic triage copilot built for the Mistral Worldwide Hackathon. It leverages Mistral AI models for clinical reasoning, voice transcription, and vision/document analysis, providing paramedics with proactive alerts, follow-up questions, and treatment suggestions during emergency scenarios. The system is designed for field reliability, speed, and clinical depth, supporting multi-modal input and real-time feedback.
 
+## Demo Video
+
+Watch a full walkthrough of VoxTriage in action:
+
+[YouTube Demo](https://www.youtube.com/watch?v=7MAIBw-sBAs)
+
 ---
 
 ## Features
